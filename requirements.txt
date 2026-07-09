@@ -1,8 +1,7 @@
-streamlit
+streamlit>=1.40
 tensorflow==2.18.0
 numpy
 pandas
 scikit-learn
-matplotlib
-tensorboard
 scikeras
+matplotlib
